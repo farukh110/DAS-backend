@@ -1,0 +1,29 @@
+{
+  "name": "das-backend-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farukh110/DAS-backend.git"
+  },
+  "keywords": [
+    "Doctor",
+    "appointment",
+    "system",
+    "backend"
+  ],
+  "author": "Farukh Sajjad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farukh110/DAS-backend/issues"
+  },
+  "homepage": "https://github.com/farukh110/DAS-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
